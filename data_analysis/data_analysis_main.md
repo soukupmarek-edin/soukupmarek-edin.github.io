@@ -2,7 +2,7 @@
 layout: data_analysis_index
 ---
 
-[back to main page](https://soukupmarek-edin.github.io/)
+[MAIN PAGE](https://soukupmarek-edin.github.io/)
 
 # Introduction 
 
@@ -12,4 +12,4 @@ layout: data_analysis_index
 
 # Working with pandas
 
-[back to main page](https://soukupmarek-edin.github.io/)
+[MAIN PAGE](https://soukupmarek-edin.github.io/)
