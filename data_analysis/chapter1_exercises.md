@@ -2,6 +2,10 @@
 layout: data_analysis_index
 ---
 
+[back to main page](https://soukupmarek-edin.github.io/)
+
+[back to data analysis page](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html)
+
 
 **Task 1:** Load the table `countries` and select only United Kingdom.
 
@@ -14,3 +18,8 @@ layout: data_analysis_index
   ```
   
 </details>
+
+
+[back to main page](https://soukupmarek-edin.github.io/)
+
+[back to data analysis page](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html)
