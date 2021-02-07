@@ -1,3 +1,6 @@
+---
+layout: data_analysis_index
+---
 
 
 **Task 1:** Load the table `countries` and select only United Kingdom.
