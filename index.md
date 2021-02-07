@@ -9,11 +9,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Data analysis
 
-[Here](./data_analysis/data_analysis_main.md) you will find my course of data analysis.
+[HERE](./data_analysis/data_analysis_main.md) you will find my course of data analysis.
 
 # Personal
 
-Here you will find something about me.
+[HERE](./personal/personal_main.md) you will find something about me.
 
 ### Header 3
 
