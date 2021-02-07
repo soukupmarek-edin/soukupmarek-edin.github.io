@@ -4,7 +4,7 @@
 
 <details>
   <summary>Show solution</summary>
-  ```{python}
+  ```python
   source = "https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/countries.csv"
   df = pd.read_csv(source)
   ```
