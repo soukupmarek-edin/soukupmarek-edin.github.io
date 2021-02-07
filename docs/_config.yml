@@ -31,7 +31,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  soukupmarek-edin
 
 # Build settings
+<<<<<<< HEAD
 theme: minima
+=======
+remote_theme: jekyll-theme-leap-day
+>>>>>>> 75354166a5072dd549ec98f67831474ee9bbcd91
 plugins:
   - jekyll-feed
 
