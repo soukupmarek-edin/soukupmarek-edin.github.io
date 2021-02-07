@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
+This is my personal website, which is currently under development. Please do not expect to find anything meaningful here at the moment.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
