@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome!
+# Header 1
 
 This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
 
