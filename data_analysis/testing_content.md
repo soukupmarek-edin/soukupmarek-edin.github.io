@@ -1,6 +1,11 @@
 This is how it will look like
 
-```{toggle} Click the button to reveal!
-:show:
-Some hidden toggle content!
-```
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
