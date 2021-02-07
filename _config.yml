@@ -1,5 +1,6 @@
 title: Marek Soukup
 description: Personal website
 show_downloads: true
+markdown: CommonMarkGhPages
 google_analytics:
 theme: jekyll-theme-leap-day
