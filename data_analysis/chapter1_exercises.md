@@ -10,7 +10,7 @@ layout: data_analysis_index
   
   ```python
   source = "https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/countries.csv"
-  df = pd.read_csv(source)
+  countries_df = pd.read_csv(source).loc["United Kingdom"]
   ```
   
 </details>
