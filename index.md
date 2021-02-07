@@ -1,20 +1,21 @@
 ---
 layout: main_page_index
 ---
+# Welcome!
 
 This is my personal website, which is currently under development. Please do not expect to find anything meaningful here at the moment.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Data analysis
 
-# Header 1
+[Link to another page](./data_analysis_main.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Header 2
+# Personal
 
 > This is a blockquote following a header.
 >
