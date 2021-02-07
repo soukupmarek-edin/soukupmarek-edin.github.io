@@ -33,6 +33,7 @@ end
 ```
 
 ```python
+# Python code
 print("Cau lidi")
 ```
 
