@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Header 1
-
 This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
+# Header 1
 
 There should be whitespace between paragraphs.
 
