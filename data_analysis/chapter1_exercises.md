@@ -21,3 +21,14 @@ countries_df = pd.read_csv(source, index_col='country').loc["United Kingdom"]
 
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/) | [DATA ANALYSIS](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html)
+
+
+
+
+
+
+
+
+
+
+
