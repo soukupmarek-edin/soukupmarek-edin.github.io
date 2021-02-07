@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: data_analysis_index
 ---
 __yay__
 
