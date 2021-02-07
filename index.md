@@ -2,17 +2,19 @@
 layout: default
 ---
 
+# Welcome!
+
+<!--- This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+-->
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Welcome!
-
-This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
 
 ## Header 2
 
@@ -119,5 +121,6 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+The final element. 
 ```
+--->
