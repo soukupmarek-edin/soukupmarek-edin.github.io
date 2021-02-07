@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main_page_index
 ---
 
 This is my personal website, which is currently under development. Please do not expect to find anything meaningful here at the moment.
