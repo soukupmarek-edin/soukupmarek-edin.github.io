@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Data analysis
 
-[Here](./data_analysis_main.md) you will find my course of data analysis.
+[Here](./data_analysis_main.html) you will find my course of data analysis.
 
 # Personal
 
