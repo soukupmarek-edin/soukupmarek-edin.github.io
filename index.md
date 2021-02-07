@@ -9,17 +9,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Data analysis
 
-[Link to another page](./data_analysis_main.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Here](./data_analysis_main.html) you will find my course of data analysis.
 
 # Personal
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Here you will find something about me.
 
 ### Header 3
 
