@@ -32,6 +32,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```python
+print("Cau lidi")
+```
+
 #### Header 4
 
 *   This is an unordered list following a header.
