@@ -2,4 +2,4 @@
 layout: main_page_index
 ---
 
-[HERE]() you can find my Curriculum Vitae.
+[HERE](./Curriculum_Vitae (9).pdf) you can find my Curriculum Vitae.
