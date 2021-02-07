@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-<!--- This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
+This is my personal website, which is currently under development. Please do not expect to find anything meaningful here.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -121,4 +121,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element. 
 ```
--->
