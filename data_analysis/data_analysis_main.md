@@ -2,11 +2,13 @@
 layout: data_analysis_index
 ---
 
+[back to main page](https://soukupmarek-edin.github.io/)
+
 # Introduction 
 
-[Testing content](./testing_content)
-
 # Meeting pandas
+
+[Exercises](./chapter1_exercises.md)
 
 # Working with pandas
 
