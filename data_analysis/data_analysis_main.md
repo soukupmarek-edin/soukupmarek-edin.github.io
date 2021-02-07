@@ -8,4 +8,4 @@ layout: data_analysis_index
 
 # Working with pandas
 
-[back](./)
+[back to main page](https://soukupmarek-edin.github.io/)
