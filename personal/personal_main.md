@@ -3,7 +3,7 @@ layout: main_page_index
 ---
 
 <h1>
-<img src="https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/pictures/face2.jpg?raw=true" style="width:128px;height:128px;">
+<img src="./pictures/face2.jpg" style="width:128px;height:128px;">
 </h1>
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/)
