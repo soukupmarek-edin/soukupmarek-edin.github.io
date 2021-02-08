@@ -6,7 +6,7 @@ layout: main_page_index
 This is my personal website, which is currently under development. Please do not expect to find anything meaningful here at the moment.
 
 <h1>
-<img src="./pictures/face.jpg" style="width:128px;height:128px;">
+<img src="./pictures/face2.jpg" style="width:128px;height:128px;">
 </h1>
 
 # Data analysis
