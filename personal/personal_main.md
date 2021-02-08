@@ -2,9 +2,9 @@
 layout: main_page_index
 ---
 
-<body>
-<img src="https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/pictures/face.jpg" alt="Girl in a jacket" style="width:128px;height:128px;">
-</body>
+<h1>
+<img src="https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/pictures/face.jpg" style="width:128px;height:128px;">
+</h1>
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/)
 
