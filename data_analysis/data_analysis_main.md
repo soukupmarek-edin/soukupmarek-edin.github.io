@@ -4,12 +4,12 @@ layout: data_analysis_index
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/)
 
-### Introduction 
+## Introduction 
 
-### Meeting pandas
+## Meeting pandas
 
-#### [Exercises](./chapter1_exercises.md)
+### [Exercises](./chapter1_exercises.md)
 
-### Working with pandas
+## Working with pandas
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/)
