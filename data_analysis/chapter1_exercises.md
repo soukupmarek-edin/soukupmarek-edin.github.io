@@ -68,10 +68,12 @@ uk_df.shape
 
 <details>
   <summary>Show solution</summary>
+  
   ```python
 print(uk_df.head())
 print(uk_df.tail())
   ```
+  
 </details>
 
 * * *
