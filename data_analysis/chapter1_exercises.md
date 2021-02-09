@@ -49,6 +49,8 @@ uk_df = uk_df.drop('country', 1).set_index('year')
   
 </details>
 
+* * *
+
 **Task 3:** Display the number of rows and columns in the table.
 
 <details>
@@ -60,17 +62,19 @@ uk_df.shape
   
 </details>
 
+* * *
+
 **Task 4:** Display the upper 10 rows and the lower 10 rows.
 
 <details>
   <summary>Show solution</summary>
-  
   ```python
 print(uk_df.head())
 print(uk_df.tail())
   ```
-  
 </details>
+
+* * *
 
 **Task 5:** Display the data types of the columns in the table.
 
