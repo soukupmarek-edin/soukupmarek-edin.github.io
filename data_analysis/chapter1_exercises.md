@@ -35,7 +35,7 @@ uk_df = uk_df[uk_df['country']=='United Kingdom']
   ```
   
 </details>
-
+* * *
 
 **Task 2:** Drop the `country` column, which is not of any use anymore, and set `year` as index.
 
