@@ -87,6 +87,8 @@ uk_df.info()
   
 </details>
 
+* * *
+
 **Task 6:** Display the mean, standard deviation, count, minimum, maximum and quartiles.
 
 <details>
@@ -97,6 +99,8 @@ uk_df.describe()
   ```
   
 </details>
+
+* * *
 
 **Task 7:** Find the number of missing data in every column.
 
@@ -109,6 +113,8 @@ uk_df.isna().sum()
   
 </details>
 
+* * *
+
 **Task 8:** Drop all rows with any missing values.
 
 <details>
@@ -119,6 +125,8 @@ uk_df.dropna(inplace=True)
   ```
   
 </details>
+
+* * *
 
 ### Working with columns
 
@@ -139,6 +147,8 @@ uk_df['GDP_pc'] = uk_df['GDP_pc'].round()
   ```
   
 </details>
+
+* * *
 
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/) | [DATA ANALYSIS](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html)
