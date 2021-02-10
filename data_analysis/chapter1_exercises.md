@@ -8,7 +8,7 @@ layout: data_analysis_index
 
 ### Imports
 
-```{python}
+```python
 import pandas as pd
 ```
 
@@ -132,7 +132,7 @@ uk_df.dropna(inplace=True)
 
 ### Working with columns
 
-**Task 9:** Create a new column `GDP_pc` containing GDP per capita. Round the column.
+**Task 9:** Create a new column `GDP_pc` containing GDP per capita. Round the values.
 
 <details>
   <summary>Show solution</summary>
