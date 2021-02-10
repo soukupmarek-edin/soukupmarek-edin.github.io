@@ -8,6 +8,8 @@ layout: data_analysis_index
 
 ## Foreword
 
+<video src="trial_video.mkv" poster="poster.jpg" width="320" height="200" controls preload></video>
+
 ## Rules
 
 1. **Data first rule** - One can obtain information about the world without mathematics and statistics, but not without being able to manipulate and analyse data. This is the main motivation for me to make these notes. 
