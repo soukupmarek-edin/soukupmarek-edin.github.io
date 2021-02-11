@@ -8,7 +8,7 @@ layout: data_analysis_index
 
 ## Foreword
 
-<!-- <video src="trial_video.mkv" poster="poster.jpg" width="320" height="200" controls preload></video>
+<!-- <video src="trial_video.mkv" poster="poster.jpg" width="320" height="200" controls preload></video> -->
 
 ## Rules
 
@@ -18,6 +18,12 @@ layout: data_analysis_index
 1. **"One dataset" rule** - The whole course uses only one data set, which consists of economic and demographic data taken from the World Bank public database. The purpose of using one data set is to minimize the time spent on getting familiarized with the data. Some courses use multiple datasets for even one topic. By my experience, working with unfamiliar data can be frustrating. 
 
 # Meeting pandas
+
+The central object of the pandas module is a DataFrame. A DataFrame is a table that stores our data. In addition to a simple collection such as a list or an array, a DataFrame enables us to name our rows and columns. This feature significantly improves readability of the data stored in our table. We can also easily manipulate them. 
+
+In this section, we take the first look at the pandas DataFrame. We learn how to load data, navigate in the data frame, select only a part of your data and perform basic exploration.
+
+## [Notes](./chapter1_notes.md)
 
 ## [Exercises](./chapter1_exercises.md)
 
