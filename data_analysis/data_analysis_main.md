@@ -8,7 +8,7 @@ layout: data_analysis_index
 
 ## Foreword
 
-<video src="trial_video.mkv" poster="poster.jpg" width="320" height="200" controls preload></video>
+<!-- <video src="trial_video.mkv" poster="poster.jpg" width="320" height="200" controls preload></video>
 
 ## Rules
 
