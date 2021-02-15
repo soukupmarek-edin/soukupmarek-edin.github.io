@@ -22,7 +22,10 @@ layout: data_analysis_index
 
 ## Our database
 
-
+1. basic
+1. economy
+1. demography
+1. geography
 
 * * *
 
