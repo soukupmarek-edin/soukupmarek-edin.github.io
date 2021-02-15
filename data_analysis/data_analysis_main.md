@@ -32,8 +32,6 @@ layout: data_analysis_index
 
 # Analyis with models
 
-# Visualisation
-
 * * *
 
 [MAIN PAGE](https://soukupmarek-edin.github.io/)
