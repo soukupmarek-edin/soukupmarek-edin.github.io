@@ -29,9 +29,7 @@ layout: data_analysis_index
 
 * * *
 
-# Data manipulation
-
-[HERE](./manipulation_main.md)
+# [Data manipulationHERE](./manipulation_main.md)
 
 In this chapter, we learn how to prepare our data for further analysis. Data analysts work with data coming from various sources. Therefore, they have to be able to get them and manipulate them efficiently. We will familiarize ourselves with Python's library pandas and the tools it provides. We learn how to load data, navigate in a data table, create new columns, aggregate data and join multiple tables. 
 
