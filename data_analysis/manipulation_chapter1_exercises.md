@@ -2,7 +2,7 @@
 layout: data_analysis_index
 ---
 
-[MAIN PAGE](https://soukupmarek-edin.github.io/) | [DATA ANALYSIS](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html)
+[MAIN PAGE](https://soukupmarek-edin.github.io/) | [DATA ANALYSIS CROSSROAD](https://soukupmarek-edin.github.io/data_analysis/data_analysis_main.html) | [DATA ANALYSIS CROSSROAD](https://soukupmarek-edin.github.io/data_analysis/manipulation_main.html)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z_S9y6VA5M3uab2UZJNhrPaUSsMbA2VZ?usp=sharing)
 
