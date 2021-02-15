@@ -33,9 +33,9 @@ layout: data_analysis_index
 
 In this chapter, we learn how to prepare our data for further analysis. Data analysts work with data coming from various sources. Therefore, they have to be able to get them and manipulate them efficiently. We will familiarize ourselves with Python's library pandas and the tools it provides. We learn how to load data, navigate in a data table, create new columns, aggregate data and join multiple tables. 
 
-# Data exploration
+# [Data exploration](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/data_analysis/exploration_main.html)
 
-# Analyis with models
+# [Analyis with models](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/data_analysis/models_main.html)
 
 * * *
 
