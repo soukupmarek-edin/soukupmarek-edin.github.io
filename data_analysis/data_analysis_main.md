@@ -31,13 +31,13 @@ layout: data_analysis_index
 
 # Data manipulation
 
-[HERE](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/data_analysis/manipulation_main.html)
+[HERE](./manipulation_main.md)
 
 In this chapter, we learn how to prepare our data for further analysis. Data analysts work with data coming from various sources. Therefore, they have to be able to get them and manipulate them efficiently. We will familiarize ourselves with Python's library pandas and the tools it provides. We learn how to load data, navigate in a data table, create new columns, aggregate data and join multiple tables. 
 
-# [Data exploration](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/data_analysis/exploration_main.html)
+# [Data exploration](./exploration_main.md)
 
-# [Analyis with models](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/data_analysis/models_main.html)
+# [Analyis with models](./models_main.md)
 
 * * *
 
