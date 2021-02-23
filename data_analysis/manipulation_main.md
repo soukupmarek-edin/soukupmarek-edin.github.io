@@ -14,6 +14,8 @@ In this section, we take the first look at the pandas DataFrame. We learn how to
 
 ## [Exercises](./manipulation_chapter1_exercises.md)
 
+## [Notebook](https://github.com/soukupmarek-edin/soukupmarek-edin.github.io/blob/main/chapter1_notes.ipynb)
+
 * * *
 
 # Working with DataFrame
