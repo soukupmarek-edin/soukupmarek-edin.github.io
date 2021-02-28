@@ -22,10 +22,10 @@ layout: data_analysis_index
 
 ## Our database
 
-1. basic
-1. economy
-1. demography
-1. geography
+1. [basic](https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/basic.csv)
+1. [economy](https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/economy.csv)
+1. [demography](https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/demography.csv)
+1. [geography](https://raw.githubusercontent.com/soukupmarek-edin/soukupmarek-edin.github.io/main/data_analysis/data/geography.csv)
 
 * * *
 
